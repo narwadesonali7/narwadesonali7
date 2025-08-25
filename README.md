@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/<narwadesonali7>/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/narwadesonali7/count.svg)
 ## Hi there 👋
 
 <!--
