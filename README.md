@@ -1,6 +1,10 @@
-![Visitor Count](https://profile-counter.glitch.me/narwadesonali7/count.svg)
-## Hi there 👋
 
+## Hi there 👋
+I am an aspiring DevOps and Cloud enthusiast with hands-on experience in AWS, Linux, Git/GitHub, and automation tools.
+I enjoy building real-world projects that showcase my problem-solving and technical skills, from CI/CD pipelines to scalable cloud deployments. 
+My focus is on continuously learning and applying best practices in cloud infrastructure and DevOps workflows.
+You can explore my projects and contributions on GitHub: github.com/narwadesonali7
+."
 <!--
 **narwadesonali7/narwadesonali7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
